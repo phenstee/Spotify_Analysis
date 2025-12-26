@@ -1,0 +1,20 @@
+[
+  {
+    "endTime": "2025-12-21 21:02",
+    "artistName": "Coldplay",
+    "trackName": "Yellow",
+    "msPlayed": 269000
+  },
+  {
+    "endTime": "2025-12-22 11:40",
+    "artistName": "Yoko Shimomura",
+    "trackName": "Dearly Beloved",
+    "msPlayed": 142000
+  },
+  {
+    "endTime": "2025-12-22 11:44",
+    "artistName": "Porter Robinson",
+    "trackName": "Look at the Sky",
+    "msPlayed": 210000
+  }
+]

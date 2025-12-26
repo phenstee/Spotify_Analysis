@@ -1,0 +1,32 @@
+[
+  {
+    "endTime": "2025-12-20 18:32",
+    "artistName": "Taylor Swift",
+    "trackName": "Cruel Summer",
+    "msPlayed": 215000
+  },
+  {
+    "endTime": "2025-12-20 18:36",
+    "artistName": "RADWIMPS",
+    "trackName": "Sparkle",
+    "msPlayed": 187000
+  },
+  {
+    "endTime": "2025-12-20 18:45",
+    "artistName": "Hans Zimmer",
+    "trackName": "Time",
+    "msPlayed": 240000
+  },
+  {
+    "endTime": "2025-12-21 09:10",
+    "artistName": "Joji",
+    "trackName": "Slow Dancing in the Dark",
+    "msPlayed": 60000
+  },
+  {
+    "endTime": "2025-12-21 09:15",
+    "artistName": "Ludwig Göransson",
+    "trackName": "Can You Hear The Music",
+    "msPlayed": 196000
+  }
+]
